@@ -1,1 +1,1 @@
-export default (apiUrl = "https://95ace987.ngrok.io");
+export default (apiUrl = "https://esusuapi.herokuapp.com");
